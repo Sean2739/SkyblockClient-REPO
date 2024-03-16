@@ -554,7 +554,7 @@
         "display": "FishFault",
         "creator": "Sean0806",
         "discordcode": "e4Nm95u9ys",
-        "description": "A PvP pack with a collection of textures from various packs.",
+        "description": "The Ultimate Hypixel Texture Pack.",
         "icon": "fishfault.png",
         "icon_scaling": "pixel",
         "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/fishfault-preview.png",
@@ -565,8 +565,8 @@
             }
         ],
         "categories": ["3;All PvP"],
-        "file": "FishFault.zip",
-        "url": "https://github.com/Sean2739/Fishfault/releases/download/6.0.0/Fishfault.Revamp.zip",
+        "file": "Fishfault.zip",
+        "url": "https://github.com/Sean2739/Fishfault/releases/download/Release/Fishfault.Zip",
         "hash": "74075ef09b312a46616de1d22e153a3c"
     },
     {
